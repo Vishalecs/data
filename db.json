@@ -14,7 +14,7 @@
       "description": "Description of Product 2",
       "price": 19.99,
       "category": "Electronics",
-      "imageUrl": "https://example.com/product2.jpg"
+      "image": "watch.jpg"
     },
     {
       "id": 3,
