@@ -6,7 +6,79 @@
       "description": "6.1-inch Super Retina XDR display",
       "price": 69999,
       "category": "Electronics",
-      "imageUrl": "https://www.phoneshock.it/wp-content/uploads/2021/03/iphone-12-pacific-blue-color.png"
+      "imageUrl": "https://example.com/iphone13.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "description": "6.2-inch Dynamic AMOLED display",
+      "price": 59999,
+      "category": "Electronics",
+      "imageUrl": "https://example.com/galaxy-s21.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Men's Casual T-Shirt",
+      "description": "Comfortable and stylish cotton t-shirt",
+      "price": 29.99,
+      "category": "Fashion",
+      "imageUrl": "https://example.com/casual-tshirt.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Women's Floral Dress",
+      "description": "Elegant and floral patterned dress",
+      "price": 49.99,
+      "category": "Fashion",
+      "imageUrl": "https://example.com/floral-dress.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sony 55-inch 4K Smart TV",
+      "description": "Ultra HD LED display with smart features",
+      "price": 79999,
+      "category": "Electronics",
+      "imageUrl": "https://example.com/sony-tv.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Samsung 65-inch QLED TV",
+      "description": "Quantum Dot technology with 4K resolution",
+      "price": 99999,
+      "category": "Electronics",
+      "imageUrl": "https://example.com/samsung-qled-tv.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Men's Chronograph Watch",
+      "description": "Stylish stainless steel watch with chronograph",
+      "price": 149.99,
+      "category": "Fashion",
+      "imageUrl": "https://example.com/mens-watch.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Women's Leather Strap Watch",
+      "description": "Elegant watch with leather strap",
+      "price": 129.99,
+      "category": "Fashion",
+      "imageUrl": "https://example.com/womens-watch.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Dell XPS 13",
+      "description": "13-inch Ultrabook with powerful performance",
+      "price": 109999,
+      "category": "Electronics",
+      "imageUrl": "https://example.com/dell-xps13.jpg"
+    },
+    {
+      "id": 10,
+      "name": "MacBook Air M1",
+      "description": "Apple Silicon-powered thin and light laptop",
+      "price": 119999,
+      "category": "Electronics",
+      "imageUrl": "https://example.com/macbook-air.jpg"
     }
   ],
   "categories": [
