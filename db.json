@@ -9,40 +9,7 @@
       "imageUrl": "https://www.phoneshock.it/wp-content/uploads/2021/03/iphone-12-pacific-blue-color.png"
     },
    
-   
-    {
-      "id": 2,
-      "name": "Women's Floral Dress",
-      "description": "Elegant and floral patterned dress",
-      "price": 49.99,
-      "category": "Fashion",
-      "imageUrl": "https://media.istockphoto.com/id/1170648040/photo/beautiful-lady-overjoyed-by-warm-spring-breeze-dream-of-romantic-date-wear-cute-floral-dress.jpg?s=612x612&w=0&k=20&c=UzOoNF1-F6pR5uSu6mTqnPAYR4eg6paDy4FKfhYVInU="
-    },
-    {
-      "id": 3,
-      "name": "Sony 55-inch 4K Smart TV",
-      "description": "Ultra HD LED display with smart features",
-      "price": 79999,
-      "category": "Electronics",
-      "imageUrl": "https://m.media-amazon.com/images/I/81Nw2ifyBzL.jpg"
-    },
-  
-    {
-      "id": 4,
-      "name": "Dell XPS 13",
-      "description": "13-inch Ultrabook with powerful performance",
-      "price": 109999,
-      "category": "Electronics",
-      "imageUrl": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9315/spi/blue/ng/notebook-xps-13-9315-blue-campaign-hero-504x350-ng.psd?fmt=jpg&wid=570&hei=400"
-    },
-    {
-      "id": 5,
-      "name": "MacBook Air M1",
-      "description": "Apple Silicon-powered thin and light laptop",
-      "price": 119999,
-      "category": "Electronics",
-      "imageUrl": "https://mezha.media/wp-content/uploads/2022/09/mac-book-air-m1-3.jpg"
-    }
+ 
   ],
   "categories": [
     {
