@@ -2,11 +2,10 @@
   "products": [
     {
       "id": 1,
-      "name": "Product 1",
-      "description": "Description of Product 1",
-      "price": 29.99,
-      "category": "Electronics",
-      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"
+      "name": "iPhone 13 128 GB",
+      "description": "15.40 cm (6.1-inch) Super Retina XDR display",
+      "price": 69,999,
+      "imageUrl": "https://img5.gadgetsnow.com/gd/images/products/additional/large/G306150_View_1/mobiles/smartphones/apple-iphone-13-128-gb-blue-4-gb-ram-.jpg"
     },
     {
       "id": 2,
