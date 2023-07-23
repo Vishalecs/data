@@ -18,7 +18,7 @@
     },
    
     {
-      "id": 4,
+      "id": 3,
       "name": "Women's Floral Dress",
       "description": "Elegant and floral patterned dress",
       "price": 49.99,
@@ -26,7 +26,7 @@
       "imageUrl": "https://media.istockphoto.com/id/1170648040/photo/beautiful-lady-overjoyed-by-warm-spring-breeze-dream-of-romantic-date-wear-cute-floral-dress.jpg?s=612x612&w=0&k=20&c=UzOoNF1-F6pR5uSu6mTqnPAYR4eg6paDy4FKfhYVInU="
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Sony 55-inch 4K Smart TV",
       "description": "Ultra HD LED display with smart features",
       "price": 79999,
@@ -34,7 +34,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81Nw2ifyBzL.jpg"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Samsung 65-qled-TV",
       "description": "Quantum Dot technology with 4K resolution",
       "price": 99999,
@@ -43,7 +43,7 @@
     },
    
     {
-      "id": 8,
+      "id": 6,
       "name": "Women's Leather Strap Watch",
       "description": "Elegant watch with leather strap",
       "price": 129.99,
@@ -51,7 +51,7 @@
       "imageUrl": "https://shop.timexindia.com/pub/media/catalog/product/cache/d1278743bcf4dd9ae554a45c3451b6fa/t/w/tw2v23700.jpg"
     },
     {
-      "id": 9,
+      "id": 7,
       "name": "Dell XPS 13",
       "description": "13-inch Ultrabook with powerful performance",
       "price": 109999,
