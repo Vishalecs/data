@@ -8,17 +8,10 @@
       "category": "Electronics",
       "imageUrl": "https://www.phoneshock.it/wp-content/uploads/2021/03/iphone-12-pacific-blue-color.png"
     },
-    {
-      "id": 2,
-      "name": "Samsung Galaxy S21",
-      "description": "6.2-inch Dynamic AMOLED display",
-      "price": 59999,
-      "category": "Electronics",
-      "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-ultra-5g-2.jpg"
-    },
+   
    
     {
-      "id": 3,
+      "id": 2,
       "name": "Women's Floral Dress",
       "description": "Elegant and floral patterned dress",
       "price": 49.99,
@@ -26,32 +19,16 @@
       "imageUrl": "https://media.istockphoto.com/id/1170648040/photo/beautiful-lady-overjoyed-by-warm-spring-breeze-dream-of-romantic-date-wear-cute-floral-dress.jpg?s=612x612&w=0&k=20&c=UzOoNF1-F6pR5uSu6mTqnPAYR4eg6paDy4FKfhYVInU="
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Sony 55-inch 4K Smart TV",
       "description": "Ultra HD LED display with smart features",
       "price": 79999,
       "category": "Electronics",
       "imageUrl": "https://m.media-amazon.com/images/I/81Nw2ifyBzL.jpg"
     },
+  
     {
-      "id": 5,
-      "name": "Samsung 65-qled-TV",
-      "description": "Quantum Dot technology with 4K resolution",
-      "price": 99999,
-      "category": "Electronics",
-      "imageUrl": "data:image/jpeg;base64,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"
-    },
-   
-    {
-      "id": 6,
-      "name": "Women's Leather Strap Watch",
-      "description": "Elegant watch with leather strap",
-      "price": 129.99,
-      "category": "Fashion",
-      "imageUrl": "https://shop.timexindia.com/pub/media/catalog/product/cache/d1278743bcf4dd9ae554a45c3451b6fa/t/w/tw2v23700.jpg"
-    },
-    {
-      "id": 7,
+      "id": 4,
       "name": "Dell XPS 13",
       "description": "13-inch Ultrabook with powerful performance",
       "price": 109999,
@@ -59,7 +36,7 @@
       "imageUrl": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9315/spi/blue/ng/notebook-xps-13-9315-blue-campaign-hero-504x350-ng.psd?fmt=jpg&wid=570&hei=400"
     },
     {
-      "id": 10,
+      "id": 5,
       "name": "MacBook Air M1",
       "description": "Apple Silicon-powered thin and light laptop",
       "price": 119999,
